@@ -1,0 +1,132 @@
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\appsettings.Development.json
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\appsettings.json
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\InventoryManagementAngular.exe
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\InventoryManagementAngular.deps.json
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\InventoryManagementAngular.runtimeconfig.json
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\InventoryManagementAngular.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\InventoryManagementAngular.pdb
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Dapper.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Humanizer.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.csproj.AssemblyReference.cache
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.GeneratedMSBuildEditorConfig.editorconfig
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.AssemblyInfoInputs.cache
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.AssemblyInfo.cs
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.csproj.CoreCompileInputs.cache
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.MvcApplicationPartsAssemblyInfo.cs
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.MvcApplicationPartsAssemblyInfo.cache
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\staticwebassets\msbuild.InventoryManagementAngular.Microsoft.AspNetCore.StaticWebAssets.props
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\staticwebassets\msbuild.build.InventoryManagementAngular.props
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InventoryManagementAngular.props
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InventoryManagementAngular.props
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\staticwebassets.pack.json
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\staticwebassets.build.json
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\staticwebassets.development.json
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\scopedcss\bundle\InventoryManagementAngular.styles.css
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.csproj.CopyComplete
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\refint\InventoryManagementAngular.dll
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.pdb
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.genruntimeconfig.cache
+D:\InventoryManagementAngular (2)\InventoryManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\ref\InventoryManagementAngular.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\appsettings.Development.json
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\appsettings.json
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\InventoryManagementAngular.exe
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\InventoryManagementAngular.deps.json
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\InventoryManagementAngular.runtimeconfig.json
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\InventoryManagementAngular.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\InventoryManagementAngular.pdb
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Dapper.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Humanizer.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.csproj.AssemblyReference.cache
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.GeneratedMSBuildEditorConfig.editorconfig
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.AssemblyInfoInputs.cache
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.AssemblyInfo.cs
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.csproj.CoreCompileInputs.cache
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.MvcApplicationPartsAssemblyInfo.cs
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.MvcApplicationPartsAssemblyInfo.cache
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\staticwebassets\msbuild.InventoryManagementAngular.Microsoft.AspNetCore.StaticWebAssets.props
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\staticwebassets\msbuild.build.InventoryManagementAngular.props
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InventoryManagementAngular.props
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InventoryManagementAngular.props
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\staticwebassets.pack.json
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\staticwebassets.build.json
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\staticwebassets.development.json
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\scopedcss\bundle\InventoryManagementAngular.styles.css
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.csproj.CopyComplete
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\refint\InventoryManagementAngular.dll
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.pdb
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\InventoryManagementAngular.genruntimeconfig.cache
+E:\AccountManagementAngular\InventoryManagementAngular\InventoryManagementAngular\obj\Debug\net6.0\ref\InventoryManagementAngular.dll

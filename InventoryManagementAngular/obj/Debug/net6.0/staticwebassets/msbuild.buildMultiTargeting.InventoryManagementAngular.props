@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InventoryManagementAngular.props" />
+</Project>
